@@ -766,7 +766,7 @@ by itself, e.g.
 
 Combined with C<stdout_handler> and C<stderr_handler> allows terminating
 external command based on its output. Could also be used as a timer
-without engaging with L<alarm> (signals).
+without engaging with L<alarm|perlfunc/alarm> (signals).
 
 Remember that this code could be called every millisecond (depending
 on the output which external command generates), so try to make it
