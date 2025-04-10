@@ -2154,7 +2154,7 @@ the output looks like '13' on STDOUT and '24' on STDERR, instead of
     3
     4
 
-This has been recorded in L<rt.cpan.org> as bug #37532: Unable to interleave
+This has been recorded in L<https://rt.cpan.org> as bug #37532: Unable to interleave
 STDOUT and STDERR.
 
 =back
